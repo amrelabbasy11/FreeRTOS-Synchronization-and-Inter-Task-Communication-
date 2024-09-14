@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:102:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:157:6:TaskOne	1
+../Core/Src/freertos.c:179:6:Tasktwo	1
+../Core/Src/freertos.c:201:6:TaskThree	1
+../Core/Src/freertos.c:223:6:TaskFour	1
